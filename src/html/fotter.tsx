@@ -7,7 +7,7 @@ import {
 import { FiFacebook } from "react-icons/fi";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FaWhatsapp } from "react-icons/fa6";
-import { FaGithub, FaPhone } from "react-icons/fa";
+import {  FaPhone } from "react-icons/fa";
 
 export default function Fotter() {
   return (
