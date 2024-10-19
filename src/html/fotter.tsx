@@ -23,9 +23,11 @@ export default function Fotter() {
                 ride make every journey a delightful adventure.
               </p>
               <div className="nmber">
-                <a href="" className="lowercase">ahmaddeveloper122@gmail.com</a>
+                <a href="" className="lowercase" style={{
+                  textTransform: 'lowercase'
+                }}>contact@ahmadproweb.com</a>
                 <br />
-                <a href="">+(92) 3193223060</a>
+                <a href="https://wa.me/+923193223060?text=Hello! We can help you with building your website ?">+(92) 3193223060</a>
               </div>
             </div>
           </div>
@@ -34,17 +36,17 @@ export default function Fotter() {
             <div className="a">
           
               <div className="a2 icons">
-                <a href="https://hafizdeveloper.com/" target="_blank" style={{
+                <a href="https://ahmadproweb.com" target="_blank" style={{
                   fontSize: '1.7rem',
                   fontWeight : '900'
                 }}>Portfolio</a>
-                <a href="https://hafizdeveloper.com/" target="_blank" style={{
+                <a href="https://ahmadproweb.com" target="_blank" style={{
                   fontSize: '1.7rem',
                   fontWeight : '900'
                 }}>hafiz ahmad</a>
                 <a href="https://wa.me/+923193223060?text=Hello! We can help you with building your website ?" target="_blank"> <FaWhatsapp className="icons-im"/> +923193223060 </a>
                 <a href="tel:03204052642"> <FaPhone className="icons-im"/> +923204052642 </a>
-                <a href="https://www.linkedin.com/in/ahmad-developer-523a54296/" target="_blank"> <FaLinkedinIn className="icons-im"/> LinkedinIn </a>
+                <a href="https://www.linkedin.com/in/hafizahmadiftikhar" target="_blank"> <FaLinkedinIn className="icons-im"/> Linkedin </a>
               </div>
             </div>
           </div>
@@ -84,13 +86,13 @@ export default function Fotter() {
 
                 <AiOutlineWhatsApp />
               </a>
-              <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBpgSxBbpVbZVvnmvLnBZMgGBvqtLJLDNRrVmDQtrFcJPCxPgLSZSxCNJrBfpbwJvhgqxWP" target="_blank">
+              <a href="mailto:contact@ahmadproweb.com?subject=Web" target="_blank">
                 <AiOutlineMail />
               </a>
-              <a href="https://www.linkedin.com/in/ahmad-developer-523a54296/" target="_blank">
+              <a href="https://www.linkedin.com/in/hafizahmadiftikhar" target="_blank">
                 <AiFillLinkedin />
               </a>
-              <a href="https://www.facebook.com/" target="_blank">
+              <a href="https://ahmadproweb.com" target="_blank">
                 <FiFacebook />
               </a>
             </div>
