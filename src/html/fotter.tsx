@@ -27,7 +27,7 @@ export default function Fotter() {
                   textTransform: 'lowercase'
                 }}>contact@ahmadproweb.com</a>
                 <br />
-                <a href="https://wa.me/+923193223060?text=Hello! We can help you with building your website ?">+(92) 3193223060</a>
+                <a href="https://wa.me/+923106082642?text=Hello! We can help you with building your website ?">+(92)-310-6082642</a>
               </div>
             </div>
           </div>
@@ -44,8 +44,8 @@ export default function Fotter() {
                   fontSize: '1.7rem',
                   fontWeight : '900'
                 }}>hafiz ahmad</a>
-                <a href="https://wa.me/+923193223060?text=Hello! We can help you with building your website ?" target="_blank"> <FaWhatsapp className="icons-im"/> +923193223060 </a>
-                <a href="tel:03204052642"> <FaPhone className="icons-im"/> +923204052642 </a>
+                <a href="https://wa.me/+923193223060?text=Hello! We can help you with building your website ?" target="_blank"> <FaWhatsapp className="icons-im"/> +92-310-6082642 </a>
+                <a href="tel:3106082642"> <FaPhone className="icons-im"/> +92-310-6082642 </a>
                 <a href="https://www.linkedin.com/in/hafizahmadiftikhar" target="_blank"> <FaLinkedinIn className="icons-im"/> Linkedin </a>
               </div>
             </div>
@@ -80,16 +80,16 @@ export default function Fotter() {
         <div className="fotter_last">
           <hr className="hr" />
           <div className="flex">
-            <p>© Copyright.Designed And Developed By hafizdeveloper.</p>
+            <p>© Copyright.Designed And Developed By Hafiz Ahmad Iftikhar.</p>
             <div className="logo">
-              <a href="https://wa.me/+923193223060">
+              <a href="https://wa.me/+923106082642">
 
                 <AiOutlineWhatsApp />
               </a>
               <a href="mailto:contact@ahmadproweb.com?subject=Web" target="_blank">
                 <AiOutlineMail />
               </a>
-              <a href="https://www.linkedin.com/in/hafizahmadiftikhar" target="_blank">
+              <a href="https://www.linkedin.com/in/ahmadproweb" target="_blank">
                 <AiFillLinkedin />
               </a>
               <a href="https://ahmadproweb.com" target="_blank">
